@@ -9,7 +9,7 @@ About me:
 - 🎓 Specialization student in Python Language for business
 - 🎓 BA in Advertising and Marketing
 - 🌎 Recife - Brazil
-- 🎮 Games, geek stuffs, anime, blockchain
+- 🎮 Games, geek stuffs, anime, techonollogy, management
 - 📫 E-mail: chrisberenguer300@gmail.com 
 
 <!---
