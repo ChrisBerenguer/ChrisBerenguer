@@ -2,13 +2,14 @@ Hi, I’m Chris Berenguer
  
 About me:
 
-- 💻 Currently working as Product Manager for Lovecrypto Inc
+- 💻 Currently working as Product Owner for PagBank Pagseguro
 - 🐍 Currently learning Python and It's frameworks
 - 🎓 MSc in Administration
 - 🎓 MBA in Business Management
 - 🎓 Specialization student in Python Language for business
+- 🎓 MBA student in Agile Product MAnagement 
 - 🎓 BA in Advertising and Marketing
-- 🌎 Recife - Brazil
+- 🌎 São Paulo - Brazil
 - 🎮 Games, geek stuffs, anime, techonollogy, management
 - 📫 E-mail: chrisberenguer300@gmail.com 
 
