@@ -7,7 +7,7 @@ About me:
 - 🎓 MSc in Administration
 - 🎓 MBA in Business Management
 - 🎓 Specialization student in Python Language for business
-- 🎓 MBA student in Agile Product MAnagement 
+- 🎓 MBA student in Agile Product Management 
 - 🎓 BA in Advertising and Marketing
 - 🌎 São Paulo - Brazil
 - 🎮 Games, geek stuffs, anime, techonollogy, management
