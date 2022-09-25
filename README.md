@@ -10,6 +10,6 @@ About me:
 - 🎓 MBA student in Agile Product Management 
 - 🎓 BA in Advertising and Marketing
 - 🌎 São Paulo - Brazil
-- 🎮 Games, geek stuffs, anime, techonollogy, management
+- 🎮 Games, geek stuffs, anime, techonollogy, blockchain and Web3.0, management
 - 📫 E-mail: chrisberenguer300@gmail.com 
 
