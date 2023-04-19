@@ -1,6 +1,6 @@
-Hi, I’m Chris Berenguer
+<h1> Hi, I’m Chris Berenguer </h1>
  
-About me:
+> About me:
 
 - 💻 Currently working as Product Owner for Bamboo Alternatives
 - 🐍 Currently learning Python and It's frameworks
@@ -14,3 +14,6 @@ About me:
 - 🎮 Games, geek stuffs, anime, techonollogy, blockchain and Web3.0, management
 - 📫 E-mail: chrisberenguer300@gmail.com 
 
+```
+contact me
+```
