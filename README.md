@@ -2,7 +2,7 @@
  
 > About me:
 
-- 💻 Currently working as Product Owner for Bamboo Alternatives
+- 💻 Currently working as Product Owner 
 - 🐍 Currently learning Python and It's frameworks
 - 🎓 MSc in Administration 
 - 🎓 Specialization in Python Language for business 
